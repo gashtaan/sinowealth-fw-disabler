@@ -14,9 +14,9 @@
    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-const int USBVDD = 2;
-const int USBP = 3;
-const int USBM = 4;
+const int USBP = 2;
+const int USBM = 3;
+const int USBVDD = 4;
 
 void setup()
 {
